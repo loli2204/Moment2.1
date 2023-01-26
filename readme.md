@@ -16,4 +16,4 @@ för syftet med att använda versionshanteringssystem. Uppgiftens går även ut 
 ---
 
 *För att klona detta repository till din dator behvöver du använda följande kommando:*
-**git clone** <aktuell Git HTTPS alt. Git SSH länk>
+**git clone** 
